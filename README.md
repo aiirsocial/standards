@@ -1,2 +1,2 @@
-# standards
+# Aiirsocial Standards
 Free and Open Standards
